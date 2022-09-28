@@ -7,7 +7,7 @@
 * Encapsulation
 * Inheritance
 * Polymorphism
-* reference Link for OOP's : https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
+
 2) In software development, Object-Oriented Design plays a crucial role when it comes to writing flexible, scalable, maintainable, and reusable code. There are so many benefits of using OOD but every developer should also have the knowledge of the SOLID principle for good object-oriented design in programming. The SOLID principle was introduced by Robert C. Martin, also known as Uncle Bob and it is a coding standard in programming
 Expecting a submission on Github/Gitlab in Markdown Format.
 * Single Responsibility Principle (SRP)
@@ -15,7 +15,6 @@ Expecting a submission on Github/Gitlab in Markdown Format.
 * Liskov’s Substitution Principle (LSP)
 * Interface Segregation Principle (ISP)
 * Dependency Inversion Principle (DIP)
- * reference Link for SOLID : https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
 
 
 
@@ -24,18 +23,6 @@ Expecting a submission on Github/Gitlab in Markdown Format.
 
 
 
-
-
-
-
-
-* Markdown Syntax - [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-* Extensions for markdown for VS Code
-[https://code.visualstudio.com/docs/languages/markdown](
-https://code.visualstudio.com/docs/languages/markdown)
-* Check Spelling and Grammar -[Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
-
-You can find extensions for other editors as well
 
 ## Points to Keep in Mind
 
@@ -55,8 +42,8 @@ You can find extensions for other editors as well
 * Use bullet points (*) or numbered points (1.)
 
 ## References Section
-* Make sure references section is in bullet points
-* Make sure references sections has proper external links
+* reference Link for OOP's : https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
+* reference Link for SOLID : https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
 
 ## Recommended Steps
 For preparing technical paper:
