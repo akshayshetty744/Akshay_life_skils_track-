@@ -24,7 +24,11 @@ Expecting a submission on Github/Gitlab in Markdown Format.
 
 
 
-## Points to Keep in Mind
+## Examples : 
+1) Class 
+* Classes were introduced in EcmaScript 2015 (ES6) to provide a cleaner way to follow object-oriented programming patterns. In terms of OOP, we often call classes as a ‘blueprint’ of an object
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/84218281/192865573-76b2e346-1251-476e-9382-6cea3e11b6ec.png">
+
 
 * **Write in your own words and code**
 * Minimum 500 words
