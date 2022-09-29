@@ -35,6 +35,11 @@ Expecting a submission on Github/Gitlab in Markdown Format.
 * Polymorphism is the presentation of one interface for multiple data types. Let's say we have an Animal class that implements the talk method. If class Dog and Cat inherit talk() from class Animal, object dog and object cat both will talk but in a different form.
  <img width="453" alt="image" src="https://user-images.githubusercontent.com/84218281/192933656-39d39935-f7e3-4ac4-ae66-21b539fd10c7.png">
 
+5) Encapsulation
+* What is encapsulation and its example?
+Encapsulation is defined as the wrapping up of data under a single unit. It is the mechanism that binds together code and the data it manipulates. Another way to think about encapsulation is, that it is a protective shield that prevents the data from being accessed by the code outside this shield.
+ <img width="570" alt="image" src="https://user-images.githubusercontent.com/84218281/192935840-0ee93cf6-5172-487f-86a6-73b67c18a698.png">
+
 
 
 ## References Section
