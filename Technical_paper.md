@@ -47,16 +47,4 @@ Encapsulation is defined as the wrapping up of data under a single unit. It is t
 * reference Link for SOLID : https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
 * reference for code : https://github.com/akshayshetty744/Akshay_life_skils_track-/blob/main/OOP's.js
 
-## Recommended Steps
-For preparing technical paper:
-1. Search on Google/Youtube
-2. Read the articles/Watch videos
-3. Compile a list of all the resources you used (This goes in the References section)
-4. Write a few key points. Add more explanation/code samples/images as appropriate
 
-## Assignment
-
-* Submit a public Github/Gitlab URL link. It should be a markdown(.md) file.
-* Submissions with grammar and spelling mistakes will not be accepted.
-* Submissions with poor formatting will not be accepted.
-* Submissions without a proper references section at the bottom will not be accepted.
