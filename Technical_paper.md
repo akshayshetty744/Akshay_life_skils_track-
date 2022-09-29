@@ -18,36 +18,29 @@ Expecting a submission on Github/Gitlab in Markdown Format.
 
 
 
-
-
-
-
-
-
 ## Examples : 
 1) Class 
 * Classes were introduced in EcmaScript 2015 (ES6) to provide a cleaner way to follow object-oriented programming patterns. In terms of OOP, we often call classes as a ‘blueprint’ of an object
-<img width="544" alt="image" src="https://user-images.githubusercontent.com/84218281/192865573-76b2e346-1251-476e-9382-6cea3e11b6ec.png">
+<img width="608" alt="image" src="https://user-images.githubusercontent.com/84218281/192931144-9e4c3752-d3e8-4c24-95fb-3bb4cdf0452f.png">
+
+2) Inheritance
+* Inheritance enables you to define a class that takes all the functionality from a parent class and allows you to add more. Using class inheritance, a class can inherit all the methods and properties of another class. Inheritance is a useful feature that allows code reusability.
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/84218281/192933032-e5567e96-74c0-4258-9c86-26d3869ad67c.png">
+
+3) Abstraction
+* Abstraction hides certain details and only show the essential features of the object. It tries to reduce and factor out details so that the developer can focus on a  few concepts at a time. This approach improves understandability as well as maintainability of the code. Abstraction helps us to reduce code duplication.
+<img width="530" alt="image" src="https://user-images.githubusercontent.com/84218281/192933430-bd596158-86b0-4a99-9787-6bea69504def.png">
+
+4) Polymorphism 
+* Polymorphism is the presentation of one interface for multiple data types. Let's say we have an Animal class that implements the talk method. If class Dog and Cat inherit talk() from class Animal, object dog and object cat both will talk but in a different form.
+ <img width="453" alt="image" src="https://user-images.githubusercontent.com/84218281/192933656-39d39935-f7e3-4ac4-ae66-21b539fd10c7.png">
 
 
-* **Write in your own words and code**
-* Minimum 500 words
-* Document all reference links that you have used
-* Basic English punctuation is extremely important
-* Use a grammar checker like Grammarly
-* Use capitalization for the first character of the sentence and proper nouns.
-* Use space after comma and full stop.
-* Push on Github/Gitlab. Make sure the repo is public.
-
-## Markdown Instructions
-* Do not use blockquotes(>) at all
-* Do not use italics at all
-* Use headers ( # or ## or ### and so on)
-* Use bullet points (*) or numbered points (1.)
 
 ## References Section
 * reference Link for OOP's : https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
 * reference Link for SOLID : https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
+* reference for code : https://github.com/akshayshetty744/Akshay_life_skils_track-/blob/main/OOP's.js
 
 ## Recommended Steps
 For preparing technical paper:
