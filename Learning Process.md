@@ -37,4 +37,16 @@
 
 4) our mind is try to go in Defuse mode frequently just take a break and relax your mind after that you feel better.
 
+## 3. Learn Anything in 20 hours
+
+### Your key takeaways from the video? Paraphrase your understanding
+
+* when we are learning something just focus on one point and try to get understand only one topic at a one time.
+
+* Dont waste your time for learning on one thing if you wasting time one topic suppose you wasting time lets say 1000 hours on one thing it wont work for anyon.
+
+* for learning concepts it will 20 hours is enough just be focused
+
+### What are some of the steps that you can while approaching a new topic
+
 
