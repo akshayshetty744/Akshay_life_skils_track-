@@ -49,4 +49,10 @@
 
 ### What are some of the steps that you can while approaching a new topic
 
+1) note down where your are going to stuck start when learning on particular topics.
+
+2) make it time table for points on one topic which we are going to lear.
+
+3) take a break for some time keep your mind in as a fresh and set time to complete task.  
+
 
